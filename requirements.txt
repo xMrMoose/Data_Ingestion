@@ -2,6 +2,9 @@
 pandas
 numpy
 
+# Market data
+yfinance
+
 # Visualization
 matplotlib
 seaborn
