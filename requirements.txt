@@ -5,6 +5,13 @@ numpy
 # Market data
 yfinance
 
+# Web / SEC EDGAR requests
+requests
+beautifulsoup4
+
+# Audio transcription
+faster-whisper
+
 # Visualization
 matplotlib
 seaborn
